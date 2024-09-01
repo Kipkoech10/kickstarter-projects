@@ -16,21 +16,20 @@ What were the top 5 most funded projects?
 Data Exploration:
 
 ## Column Analysis:
-id:unique identifier
-name: Project name
-category: Project category
-main-category: main category
-currency: currency of the project
-deadline
-goal
-launched
-pledged
-state: Project status (successful, failed, canceled, etc.)
-backers
-country
-usd_pledged: Pledged amount in USD
-usd-pledged-real
-usd-goal-pledged
+id:unique identifier,
+name: Project name,
+category: Project category,
+main-category: main category,
+currency: currency of the project,
+deadline,
+goal,
+launched,
+pledged,
+state: Project status (successful, failed, canceled, etc.),
+backers,
+country,
+usd-pledged-real,
+usd-goal-pledged,
 
 
 
