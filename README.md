@@ -7,7 +7,7 @@ Data:
 
 The dataset used is kickstarter projetcs from kaggle, which contains information about Kickstarter projects launched.
 
-Key Questions:
+## Key Questions:
 
 Which category had the most successful projects?
 What is the success rate for each category?
@@ -15,7 +15,7 @@ From which country did projects succeed the most?
 What were the top 5 most funded projects?
 Data Exploration:
 
-Column Analysis:
+## Column Analysis:
 id:unique identifier
 name: Project name
 category: Project category
